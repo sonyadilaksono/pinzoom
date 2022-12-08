@@ -1,2 +1,2 @@
-# pinzoom
+# react-lightbox
 Created with CodeSandbox
